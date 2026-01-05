@@ -3,5 +3,6 @@ This project designs and implements an end-to-end Big Data Analytics Pipeline us
 1. Predict finishing times from race and horse features
 2. Estimate the margin of victory using race conditions
 3. Predict finishing position from pre-race data.
+
 The proposed approach involves cleaning and preparing the horse racing dataset, selecting relevant race and horse features, defining continuous outcome variables, and applying Linear Regression as a baseline model alongside a Decision Tree Regressor to capture non-linear patterns. Models will be evaluated using time-based validation and standard regression metrics to generate predictive and interpretable insights.
 
